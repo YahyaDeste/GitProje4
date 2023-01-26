@@ -6,7 +6,7 @@ public class Student {
 
         System.out.println(" Merhaba 1 ");
         System.out.println("task iki yapildi ");
-        System.out.println("tekrar merhaba");
+        System.out.println("tekrar merhaba :");
     }
 
 }
